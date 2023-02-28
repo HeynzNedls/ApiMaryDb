@@ -19,3 +19,6 @@ Obs.: pode se utilizar o postman
 #npm i sequelize
 
 #npm i cors
+
+
+npm ls --depth 0 -> ver dependencias
